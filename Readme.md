@@ -1,5 +1,7 @@
 # Личный проект «Глейси»
 
+Демо: https://alexup71rus.github.io/GlaccyShop/
+
 * Студент: [Александр Ходырев](https://htmlacademy.ru/profile/id1081121).
 * Наставник: [Галина Борисова](https://up.htmlacademy.ru/htmlcss/19/user/235021).
 ---
